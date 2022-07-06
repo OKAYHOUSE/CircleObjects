@@ -1,0 +1,15 @@
+/Users/tko/Projects/CircleObjects/CircleObjects/obj/Debug/net6.0/CircleObjects.csproj.AssemblyReference.cache
+/Users/tko/Projects/CircleObjects/CircleObjects/obj/Debug/net6.0/CircleObjects.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tko/Projects/CircleObjects/CircleObjects/obj/Debug/net6.0/CircleObjects.AssemblyInfoInputs.cache
+/Users/tko/Projects/CircleObjects/CircleObjects/obj/Debug/net6.0/CircleObjects.AssemblyInfo.cs
+/Users/tko/Projects/CircleObjects/CircleObjects/obj/Debug/net6.0/CircleObjects.csproj.CoreCompileInputs.cache
+/Users/tko/Projects/CircleObjects/CircleObjects/bin/Debug/net6.0/CircleObjects
+/Users/tko/Projects/CircleObjects/CircleObjects/bin/Debug/net6.0/CircleObjects.deps.json
+/Users/tko/Projects/CircleObjects/CircleObjects/bin/Debug/net6.0/CircleObjects.runtimeconfig.json
+/Users/tko/Projects/CircleObjects/CircleObjects/bin/Debug/net6.0/CircleObjects.dll
+/Users/tko/Projects/CircleObjects/CircleObjects/bin/Debug/net6.0/CircleObjects.pdb
+/Users/tko/Projects/CircleObjects/CircleObjects/obj/Debug/net6.0/CircleObjects.dll
+/Users/tko/Projects/CircleObjects/CircleObjects/obj/Debug/net6.0/refint/CircleObjects.dll
+/Users/tko/Projects/CircleObjects/CircleObjects/obj/Debug/net6.0/CircleObjects.pdb
+/Users/tko/Projects/CircleObjects/CircleObjects/obj/Debug/net6.0/CircleObjects.genruntimeconfig.cache
+/Users/tko/Projects/CircleObjects/CircleObjects/obj/Debug/net6.0/ref/CircleObjects.dll
